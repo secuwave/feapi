@@ -1,0 +1,7 @@
+fireeye:
+  device:
+    host: 192.168.5.xxx
+    port: 443
+    api-account: xxxx
+    api-password: xxxx
+    api-version: v2.0.0
